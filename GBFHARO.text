@@ -3,8 +3,8 @@
 
   // === 設定（必要なら書き換えてOK） ===
   const API_BASE_URL = "https://gbf-raid-id-relay.vercel.app";
-  const USER_NAME = "extension-user";
-  const EXT_TOKEN = "";  // 拡張で使ってなければ空でOK
+  const USER_NAME = "HyperHighspeedGenius";
+  const EXT_TOKEN = "a6ed7832-25ae-483d-8f45-19ee62df14f1";  // 拡張で使ってなければ空でOK
   const GROUP_IDS = ["Group1"];   // ←ここが重要
   // ================================
 
